@@ -4,4 +4,4 @@ Just another directory bruteforcing tool.
 
 # Usage:
 
-python dir_bruter.py -u <http://URL> -w <Wordlist.txt>
+python dir_bruter.py -u http://URL -w wordlist.txt
